@@ -31,7 +31,6 @@ jobs:
           - arm_cortex-a15_neon-vfpv4          
         sdk:
           - 22.03.7
-          - SNAPSHOT
 
     steps:
       - uses: actions/checkout@v4
